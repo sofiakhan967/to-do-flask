@@ -1,3 +1,5 @@
 # to-do-flask
 Todo app in flask 
-CRUD FUNCTION 
+CRUD operations
+Bootstrap 5
+jinja 2
